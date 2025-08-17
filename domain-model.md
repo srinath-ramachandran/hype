@@ -52,6 +52,6 @@
 
 ## Domain Model Diagram
 
-[Domain Model](DomainModel.png "Domain Model")
+![Domain Model](DomainModel.png "Domain Model")
 
 ## [Back to Home](https://sxr3455.github.io/hype/)
