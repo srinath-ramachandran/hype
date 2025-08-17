@@ -3,7 +3,7 @@ This is a course project for Penn State SWENG 837 Software System Design. The pr
 ## Contents
 1. [Use Case Analysis](https://srinath-ramachandran.github.io/hype/Use-Case-Analysis)
 2. [Domain Model](https://srinath-ramachandran.github.io/hype/domain-model)
-3. [Class Diagram](https://srinath-ramachandran.github.io/hype/domain-model/design-class-diagram)
+3. [Class Diagram](https://srinath-ramachandran.github.io/hype/design-class-diagram)
 4. [Activity Diagram - Swimlane](https://srinath-ramachandran.github.io/hype/swimlane-diagram)
 
 ## Introduction
