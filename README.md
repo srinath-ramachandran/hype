@@ -3,8 +3,8 @@
 This is a course project for Penn State SWENG 837 Software System Design. 
 
 ## Contents
-1. [Use Case Analysis](https://github.com/sxr3455/hype/blob/main/Use-Case-Analysis.md)
-2. [Domain Model](https://github.com/sxr3455/hype/blob/main/domain-model.md)
+1. [Use Case Analysis](https://sxr3455.github.io/hype/Use-Case-Analysis)
+2. [Domain Model](https://sxr3455.github.io/hype/domain-model)
 
 ## Introduction
 Modern homes are increasingly equipped with IoT devices (thermostats, lights, cameras, etc.), but users often face the following difficulties:
