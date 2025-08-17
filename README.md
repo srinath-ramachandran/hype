@@ -1,4 +1,4 @@
-This is a course project for Penn State SWENG 837 Software System Design. 
+This is a course project for Penn State SWENG 837 Software System Design. The project domain is home automation. 
 
 ## Contents
 1. [Use Case Analysis](https://sxr3455.github.io/hype/Use-Case-Analysis)
