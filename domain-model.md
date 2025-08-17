@@ -1,5 +1,3 @@
-[Back to Home](https://sxr3455.github.io/hype/)
-
 # Domain Model
 
 | Conceptual Class Category                           | Example for hype System                  |
