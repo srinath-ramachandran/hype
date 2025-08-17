@@ -1,7 +1,7 @@
 # Fully Dressed Use Cases
 
 ## Use Case Diagram
-![alt text](https://github.com/sxr3455/hype/blob/main/images/UseCaseDiagram.png)
+![Use Case Diagram](UseCaseDiagram.png "Use Case Diagram")
 
 ### Use Case 1 - Add a New IoT Device
 
