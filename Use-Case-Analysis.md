@@ -1,5 +1,3 @@
-[Back to Home}(https://sxr3455.github.io/hype/)
-
 # Fully Dressed Use Cases
 
 ## Use Case Diagram
