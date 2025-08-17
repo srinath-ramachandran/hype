@@ -278,6 +278,6 @@ Homeowner (Administrator)
 ---
 
 ## Sequence Diagram (Encloses all use cases)
-![alt text](https://github.com/sxr3455/hype/blob/main/images/SequenceDiagram.png)
+![Sequence Diagram](SequenceDiagram.png "Sequence Diagram")
 
 ### [Back to Home](https://sxr3455.github.io/hype/)
