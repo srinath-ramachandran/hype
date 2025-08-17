@@ -49,3 +49,6 @@
 **Rationales:**  
 - Pruned classes are either implementation details, metadata, external catalogs, or better represented as attributes or collections rather than classes.
 - Good classes are those that are central to the domain and appear in essential use cases.
+- 
+
+## [Back to Home](https://sxr3455.github.io/hype/)
