@@ -1,4 +1,8 @@
-## Fully Dressed Use Cases
+# Fully Dressed Use Cases
+
+## Use Case Diagram
+![alt text](https://github.com/sxr3455/hype/blob/main/images/UseCaseDiagram.png)
+
 ### Use Case 1 - Add a New IoT Device
 
 **Use Case Name**  
