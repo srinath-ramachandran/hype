@@ -5,6 +5,7 @@ This is a course project for Penn State SWENG 837 Software System Design. The pr
 2. [Domain Model](https://srinath-ramachandran.github.io/hype/domain-model)
 3. [Class Diagram](https://srinath-ramachandran.github.io/hype/design-class-diagram)
 4. [Activity Diagram - Swimlane](https://srinath-ramachandran.github.io/hype/swimlane-diagram)
+5. [State Diagrams](https://srinath-ramachandran.github.io/hype/state-diagrams)
 
 ## Introduction
 Modern homes are increasingly equipped with IoT devices (thermostats, lights, cameras, etc.), but users often face the following difficulties:
