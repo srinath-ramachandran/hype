@@ -274,3 +274,8 @@ Homeowner (Administrator)
 
 **Miscellaneous:**  
 - Open issue - Delegating temporary access for service providers such as cleaners, etc
+
+---
+
+## Sequence Diagram (Encloses all use cases)
+![alt text](https://github.com/sxr3455/hype/blob/main/images/SequenceDiagram.png)
