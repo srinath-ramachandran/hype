@@ -14,7 +14,6 @@ Support for major IoT protocols, such as,
 1. Zigbee
 2. Z-Wave
 3. Wi-Fi
-4. BLE (Bluetooth)
 
 ### Unified Dashboard
 Centralized control and monitoring from mobile/web apps.
