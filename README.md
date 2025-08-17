@@ -1,5 +1,3 @@
-# hype (**H**ome **A**utomation **P**owered by **E**xcellence)
-
 This is a course project for Penn State SWENG 837 Software System Design. 
 
 ## Contents
